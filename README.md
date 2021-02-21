@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+# Position: Trainee/Junior frontend developer
+
+## Skills:
+- HTML
+  - BEM 
+- CSS
+  - Scss  
+- JavaScript
+
+- Bootstrap
+
+- Git
+
+- Figma
+- Photoshop
+
+## Location: Russia, Vladivostok
+## Contacts:
+- +7(984)1944771
+- oleg.kokoshinskii@gmail.com
+
+## Open to work (Local/Remote)
+
 <!--
 **ok-webdev/ok-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
