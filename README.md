@@ -18,8 +18,12 @@
 
 ## Location: Russia, Vladivostok
 ## Contacts:
-- +7(984)1944771
+- https://www.linkedin.com/in/ok-webdev/
+- https://t.me/ok_webdev
 - oleg.kokoshinskii@gmail.com
+- +7(984)1944771
+
+
 
 ## Open to work (Local/Remote)
 
