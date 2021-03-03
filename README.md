@@ -8,7 +8,7 @@
 - CSS
   - Scss  
 - JavaScript
-  -VueJS(learning now) 
+  - VueJS(learning now) 
 
 - Bootstrap
 
