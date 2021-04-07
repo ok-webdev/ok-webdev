@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Position: Junior frontend developer
+# Position: Frontend developer
 
 ## Skills:
 - HTML
