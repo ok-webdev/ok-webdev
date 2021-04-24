@@ -3,30 +3,21 @@
 # Position: Frontend developer
 
 ## Skills:
-- HTML
-  - BEM 
-- CSS
-  - Scss  
-- JavaScript
-  - VueJS(learning now) 
 
-- Bootstrap
+| HTML          | CSS           | JavaScript  |
+| :-----------: | :-----------: |:-----------:|
+| BEM           | Scss          |  VueJS      |  
+| Bootstrap     | Git           | Figma/PS    |
 
-- Git
-
-- Figma
-- Photoshop
 
 ## Location: Russia, Vladivostok
+## Open to work (Local/Remote)
+
 ## Contacts:
 - https://www.linkedin.com/in/ok-webdev/
 - https://t.me/ok_webdev
 - oleg.kokoshinskii@gmail.com
 - +7(984)1944771
-
-
-
-## Open to work (Local/Remote)
 
 [![OK-webdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
