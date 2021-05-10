@@ -4,10 +4,15 @@
 
 ## Skills:
 
-| HTML          | CSS           | JavaScript  |
-| :-----------: | :-----------: |:-----------:|
-| BEM           | Scss          |  VueJS      |  
-| Bootstrap     | Git           | Figma/PS    |
+![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
+![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=bem)
+![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
+![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
+![VueJs](https://img.shields.io/badge/-Vue.js-454443?style=for-the-badge&logo=vue.js)
+![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
 
 
 ## Location: Russia, Vladivostok
@@ -22,7 +27,7 @@
 
 [![OK-webdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/ok-webdev/badges/small)
 <!--
