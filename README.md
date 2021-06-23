@@ -18,7 +18,6 @@
 
  * Location: Russia, Vladivostok
  * But I don't afraid of remote work and I REALLY can work from home (I have not PS or Xbox and use Linux on my laptop :) )
- * Open to work (Local/Remote) and your proposals.
  * You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ok-webdev?tab=repositories)
 ## Contacts:
 - https://www.linkedin.com/in/ok-webdev/
