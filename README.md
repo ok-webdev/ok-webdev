@@ -1,4 +1,6 @@
-![giphy](https://user-images.githubusercontent.com/37953498/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif)
+<!-- ![giphy](https://user-images.githubusercontent.com/37953498/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif) -->
+![giphy](https://user-images.githubusercontent.com/37953498/123493902-5cadd500-d661-11eb-9164-ce3aed61d168.gif)
+
 
 # Position: Frontend developer
 
