@@ -6,16 +6,19 @@
 
 ## Tech:
 
+### Primary: 
 ![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
+![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
+<!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
+![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
+
+### Secondary
 ![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=BEM)
 ![PUG](https://img.shields.io/badge/-pug-454443?style=for-the-badge&logo=pug)
-![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
-![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
-<!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
-![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
-![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
 
 
