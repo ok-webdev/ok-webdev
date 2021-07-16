@@ -22,8 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 
 
- * Location: Russia, Vladivostok
- * But I don't afraid of remote work and I REALLY can work from home (I have not PS or Xbox and use Linux on my laptop :) )
+ * Location: Russia, Kaliningrad
  * You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ok-webdev?tab=repositories)
 ## Contacts:
 - https://www.linkedin.com/in/ok-webdev/
