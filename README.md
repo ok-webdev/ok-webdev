@@ -15,7 +15,6 @@
 <!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
 
 ### Secondary
-![PUG](https://img.shields.io/badge/-pug-454443?style=for-the-badge&logo=pug)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=BEM)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
