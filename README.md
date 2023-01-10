@@ -23,13 +23,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 
 
- * Location: Russia
+ * Location: Kyrgyzstan
  * You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ok-webdev?tab=repositories)
 ## Contacts:
 - https://www.linkedin.com/in/ok-webdev/
 - https://t.me/ok_webdev
 - oleg.kokoshinskii@gmail.com
-- +7(984)1944771
+- +(996)553-732-347
 
 [![OK-webdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
