@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://www.codewars.com/users/ok-webdev/badges/small)
+<!-- ![Codewars](https://www.codewars.com/users/ok-webdev/badges/small) -->
 <!--
 **ok-webdev/ok-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
