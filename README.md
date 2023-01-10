@@ -16,7 +16,7 @@
 <!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
 
 ### Secondary
-![Tailwind](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=tailwind)
+![Tailwind](https://img.shields.io/badge/-Tailwind-454443?style=for-the-badge&logo=tailwind)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=BEM)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
