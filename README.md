@@ -31,10 +31,10 @@
 - oleg.kokoshinskii@gmail.com
 - +(996)553-732-347
 
-[![OK-WEBDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![OK-WEBDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Codewars](https://www.codewars.com/users/ok-webdev/badges/small) -->
 <!--
