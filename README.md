@@ -7,20 +7,20 @@
 ## Tech:
 
 ### Primary: 
-![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-454443?style=for-the-badge&logo=svelte)
+![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 <!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
 
 ### Secondary
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-454443?style=for-the-badge&logo=tailwind.css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=BEM)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 
 
  * Location: Kyrgyzstan
