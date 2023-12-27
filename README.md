@@ -10,11 +10,10 @@
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
-![Svelte](https://img.shields.io/badge/-Svelte-454443?style=for-the-badge&logo=svelte)
+<!-- ![Svelte](https://img.shields.io/badge/-Svelte-454443?style=for-the-badge&logo=svelte) -->
 ![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
-<!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-454443?style=for-the-badge&logo=React) -->
 
 ### Secondary
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-454443?style=for-the-badge&logo=tailwind.css)
@@ -32,23 +31,9 @@
 - oleg.kokoshinskii@gmail.com
 - +(996)553-732-347
 
-<!-- [![OK-WEBDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev)](https://github.com/anuraghazra/github-readme-stats)
+[![OK-WEBDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-webdev&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Codewars](https://www.codewars.com/users/ok-webdev/badges/small) -->
-<!--
-**ok-webdev/ok-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
