@@ -10,7 +10,7 @@
 ![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-454443?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
-<!-- ![Svelte](https://img.shields.io/badge/-Svelte-454443?style=for-the-badge&logo=svelte) -->
+![Svelte](https://img.shields.io/badge/-Svelte-454443?style=for-the-badge&logo=svelte)
 ![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
