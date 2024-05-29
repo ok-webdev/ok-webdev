@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
 
 
- * Location: Kyrgyzstan
+ <!--* Location: Kyrgyzstan-->
  * You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ok-webdev?tab=repositories)
 ## Contacts:
 - https://www.linkedin.com/in/ok-webdev/
