@@ -26,11 +26,9 @@
  <!--* Location: Kyrgyzstan-->
  * You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ok-webdev?tab=repositories)
 ## Contacts:
-- https://www.linkedin.com/in/ok-webdev/
-- https://t.me/ok_webdev
-- oleg.kokoshinskii@gmail.com
-- +(996)553-732-347
-
+- [LinkedIn](https://www.linkedin.com/in/ok-webdev/)
+- [Telegram](https://t.me/ok_webdev)
+- [eMail](mailto:oleg.kokoshinskii@gmail.com)
 
 ## Public contributions: 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev&theme=transparent&show_icons=true)
